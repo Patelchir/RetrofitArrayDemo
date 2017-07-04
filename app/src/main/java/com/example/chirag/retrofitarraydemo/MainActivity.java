@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String message;
     private ArrayList<Example> exampleArrayList = new ArrayList<>();
+    private int i;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
